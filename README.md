@@ -31,4 +31,4 @@ All QUL demos are built on [Tarteel's Quranic Universal Library](https://qul.tar
 ## 📢 Contact
 
 - Email: lozalloum@gmail.com
-- LinkedIn: [linkedin.com/in/leenzalloum](https://linkedin.com/in/leenzalloum)
+- LinkedIn: [linkedin.com/in/leenzall](https://linkedin.com/in/leenzall)
